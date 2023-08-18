@@ -1,0 +1,9 @@
+.header-section {
+    padding: 0.8rem 0;
+    background-color: rgb(34, 34, 59);
+    color: white;
+}
+
+.header-section h1 {
+    text-align: center;
+}
